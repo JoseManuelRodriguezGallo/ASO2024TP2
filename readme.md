@@ -1,3 +1,5 @@
+## Recuperatorio del Parcial Video: https://youtu.be/cUZETOh-sfM
+
 ## # Reposi del Alumno         Jose Manuel Rodriguez Gallo
 ###Reprositorio para la materia de Arquitectura y Sistemas Opeterativo de la Tecnicatura en Progamcion en la universidad de la UTN.
 
