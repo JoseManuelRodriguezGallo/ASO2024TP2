@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Ingrese numero de cualquier genero."
+echo "Ingrese nombre de cualquier genero."
 #Guardar nombre
 read nombre
 
