@@ -94,4 +94,4 @@ int main(int argc, char *argv[])
 ```
 ### b) Viendo la figura 2-22, como sería para el problema de las hamburguesas
 ### con 2 comensales y 8 hamburgesas.
-[![GRAFICO DE LAS HAMBURGUESAS](DRAWIO "GRAFICO DE LAS HAMBURGUESAS")](http://https://app.diagrams.net/#G11A51WNUSpGnzwctNpVmUaMJk3YpzkrLf#%7B%22pageId%22%3A%22mVS33OeKW-QA-RuLc9JH%22%7D "GRAFICO DE LAS HAMBURGUESAS")
+[![Grafico-de-Hamburguesas.png](https://i.postimg.cc/6pfFYYHm/Grafico-de-Hamburguesas.png)](https://postimg.cc/MnXsGbJ7)
